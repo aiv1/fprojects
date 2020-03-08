@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ButtonBar(
                   children: <Widget>[
                     FlatButton(
-                      child: const Text('BUY TICKETS'),
+                      child: const Text('BUY'),
                       onPressed: () {/* ... */},
                     ),
                     FlatButton(
